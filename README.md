@@ -1,4 +1,4 @@
-# ngdqc
+# ngsqc
 QC NGS reads in brief
 
 ## requirements
